@@ -32,9 +32,9 @@
 
 1.  Öffne das Notebook in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](HIER_DEIN_COLAB_LINK_EINFÜGEN)
 2.  Wähle unter `Laufzeit` -> `Laufzeittyp ändern` die **T4 GPU** aus.
-3.  Führe die Zellen nacheinander aus.
-4.  Gib deine HuggingFace-Tokens ein (falls erforderlich) und starte die Generierung.
-
+3.  Gib unter Secrets deine HuggingFace-Token und NGROK-Token ein.
+4.  Führe die Zellen nacheinander aus.
+5. Wenn alle Prozesse laufen, öffnet sich automatisch die Umgebung in Colab und ist sofort einsatzbereit.
 ---
 
 ## ⚙️ Unter der Haube
