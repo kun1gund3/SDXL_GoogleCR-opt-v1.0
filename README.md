@@ -1,4 +1,4 @@
-# 🚀 SDXL GoogleCR-opt v1.0 NVIDIA T4 Edition
+# 🚀 SDXL GoogleCR v1.0 NVIDIA T4 Edition
 
 ![NVIDIA T4 Optimized](https://img.shields.io/badge/Optimized-NVIDIA%20T4-76B900?style=for-the-badge&logo=nvidia)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)
